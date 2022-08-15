@@ -1,0 +1,5 @@
+USER = djgv37 (Tala Eagling-Vose),
+ALGORITHM CODE = GA, NAME OF CITY-FILE = AISearchfile021.txt,
+SIZE = 21, TOUR LENGTH = 2784,
+11,17,4,0,2,15,14,12,3,7,20,1,13,5,16,9,18,10,6,8,19,
+NOTE = 
